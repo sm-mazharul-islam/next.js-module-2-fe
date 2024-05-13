@@ -1,0 +1,40 @@
+{
+  "shoes": [
+    {
+      "id": "1",
+      "title": "Running Shoes",
+      "description": "Lightweight running shoes for your daily workout routine.",
+      "price": 100.99
+    },
+    {
+      "id": "2",
+      "title": "Casual Sneakers",
+      "description": "Comfortable sneakers for everyday wear.",
+      "price": 89.99
+    },
+    {
+      "id": "3",
+      "title": "Hiking Boots",
+      "description": "Sturdy boots for outdoor adventures and hiking trips.",
+      "price": 110.99
+    },
+    {
+      "id": "4",
+      "title": "Flip Flops",
+      "description": "Simple and comfortable flip flops for beach days.",
+      "price": 19.99
+    },
+    {
+      "id": "5",
+      "title": "Formal Oxfords",
+      "description": "Classic formal shoes suitable for special occasions.",
+      "price": 129.99
+    },
+    {
+      "id": "6",
+      "title": "Cozy Slippers",
+      "description": "Soft and warm slippers for relaxing at home.",
+      "price": 39.99
+    }
+  ]
+}
